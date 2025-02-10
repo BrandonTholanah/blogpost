@@ -52,9 +52,9 @@
 }
 .footer{display:flex;
         align-items:center;
-        padding:10px;
+        padding:4px;
         justify-content:flex-start;
-        margin-left:10px;
+        margin-left:8px;
        }
 .footer img{width:40px;
         height:auto;
