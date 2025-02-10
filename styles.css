@@ -53,7 +53,9 @@
 .footer{display:flex;
        padding:20px;
        margin-left:0px;
+        align-items:left;
        }
 .footer img{width:40px;}
 .footer p{
-font-weight: bold;}
+font-weight: bold;
+margin-top:20px;}
