@@ -23,7 +23,8 @@
     }
 
     .card img{border-radius: 12px;
-    width: 70px;
+    width: 50%;
+    height:60%;
     align-items:center;
 }
 
