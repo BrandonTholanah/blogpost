@@ -53,6 +53,8 @@
 .footer{display:flex;
        margin-left:0px;
         align-items:left;
+        padding:10px;
+        justify-content:flex-start;
        }
 .footer img{width:40px;
            align-items:left;}
