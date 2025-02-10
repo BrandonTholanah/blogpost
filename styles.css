@@ -54,9 +54,11 @@
         align-items:center;
         padding:10px;
         justify-content:flex-start;
+        margin-left:10px;
        }
 .footer img{width:40px;
-        height:auto;}
+        height:auto;
+           margin-right:10px;}
 .footer p{
 font-weight: bold;
     margin:0;
