@@ -50,8 +50,7 @@
     padding-top: 15px;
     padding-bottom: 15px;
 }
-.footer img{display: flex;
-           max-width:20px;}
+.footer{display:flex;}
 .footer p{margin-left: 20px;
 padding-top: 20px;
 font-weight: bold;}
