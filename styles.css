@@ -11,8 +11,9 @@
 
     }
     .container{
-        max-width:360px;
+        width:240px;
         margin: 0 auto;
+    
     }
     .card
     {background-color: hsl(0, 0%, 100%);
