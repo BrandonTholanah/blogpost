@@ -51,6 +51,7 @@
     padding-bottom: 15px;
 }
 .footer{display:flex;}
+.footer img{width:40px;}
 .footer p{margin-left: 20px;
 padding-top: 20px;
 font-weight: bold;}
