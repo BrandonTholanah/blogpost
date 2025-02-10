@@ -23,9 +23,7 @@
     }
 
     .card img{border-radius: 12px;
-    width: 50%;
-    height:60%;
-    align-items:center;
+    display:flex;
 }
 
     .learningbutton{
@@ -49,7 +47,7 @@
     padding-top: 15px;
     padding-bottom: 15px;
 }
-.footer{display: flex;}
+.footer img{display: flex;}
 .footer p{margin-left: 20px;
 padding-top: 20px;
 font-weight: bold;}
