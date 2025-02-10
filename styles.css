@@ -54,7 +54,9 @@
        margin-left:0px;
         align-items:left;
        }
-.footer img{width:40px;}
+.footer img{width:40px;
+           align-items:left;}
 .footer p{
 font-weight: bold;
+    margin-top:5px;
 }
