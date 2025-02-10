@@ -23,7 +23,8 @@
     }
 
     .card img{border-radius: 12px;
-    display:flex;
+    width:auto;
+     height:auto;
 }
 
     .learningbutton{
