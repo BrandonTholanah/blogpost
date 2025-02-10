@@ -21,8 +21,13 @@
     text-align: left;
     margin: 0 1em;
     }
+
     .card img{border-radius: 12px;
-    max-width: 50vh;}
+    max-width: 50vh;
+    object-fit: contain;
+    border-radius: 12px;
+    padding: 10px;
+}
 
     .learningbutton{
         background-color: hsl(47, 88%, 63%);
