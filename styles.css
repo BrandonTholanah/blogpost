@@ -23,11 +23,8 @@
     }
 
     .card img{border-radius: 12px;
-    max-width: 50vh;
-    object-fit: contain;
+    width: 70px;
     align-items:center;
-    padding: 15px;
-    margin:15px
 }
 
     .learningbutton{
