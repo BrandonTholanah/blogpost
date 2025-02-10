@@ -50,8 +50,10 @@
     padding-top: 15px;
     padding-bottom: 15px;
 }
-.footer{display:flex;}
+.footer{display:flex;
+       padding:20px;
+       margin-left:0px;
+       }
 .footer img{width:40px;}
-.footer p{margin-left: 20px;
-padding-top: 20px;
+.footer p{
 font-weight: bold;}
